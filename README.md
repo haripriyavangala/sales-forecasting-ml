@@ -31,6 +31,19 @@ Prediction and Evaluation
 
 <img width="629" height="470" alt="image" src="https://github.com/user-attachments/assets/071d299b-00fb-479d-8e52-9d8c5482ff0d" />
 
+---
+
+## Results
+
+The Random Forest regression model successfully captured the sales trends in the dataset.  
+The predicted sales values closely follow the actual sales data, demonstrating the model’s ability to learn patterns from historical sales records.
+
+The visualization comparing actual and predicted values shows that the model performs well in forecasting short-term sales trends.
+
+Key observations:
+- Sales show a steady increasing trend over time.
+- The machine learning model effectively captures the upward pattern.
+- Predictions closely align with the actual sales values.
 
 ## Author
 
